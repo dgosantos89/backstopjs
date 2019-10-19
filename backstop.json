@@ -15,8 +15,8 @@
   "scenarios": [
     {
       "label": "Jogo dos erros",
-      "url": "file:///home/dssantos/estudos/backstopjs/dolly/dolly2.html",
-      "referenceUrl": "file:///home/dssantos/estudos/backstopjs/dolly/dolly1.html",
+      "url": "http://dgosantos89.github.io/dolly2",
+      "referenceUrl": "http://dgosantos89.github.io/dolly1",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     }

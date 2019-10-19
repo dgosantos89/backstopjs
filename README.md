@@ -13,7 +13,7 @@ Apresentar ferramenta para testes de regressão visual
 ``` $ npm install -g backstopjs ```
 
 ### Clonar o projeto:
-```git clone https://stash.uol.intranet/scm/cdt/testcafe-for-community.git```
+```git clone https://github.com/dgosantos89/backstopjs.git```
 
 ### Executando:
 1. ``` backstop reference ```
